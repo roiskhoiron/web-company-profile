@@ -1,0 +1,13 @@
+    <script src="<?php echo base_url('js/main/jquery-3.2.1.min.js')?>"></script>
+	<script src="<?php echo base_url('css/main/bootstrap4/popper.js')?>"></script>
+	<script src="<?php echo base_url('css/main/bootstrap4/bootstrap.min.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/greensock/TweenMax.min.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/greensock/TimelineMax.min.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/scrollmagic/ScrollMagic.min.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/greensock/animation.gsap.min.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/greensock/ScrollToPlugin.min.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/slick-1.8.0/slick.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/OwlCarousel2-2.2.1/owl.carousel.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/scrollTo/jquery.scrollTo.min.js')?>"></script>
+	<script src="<?php echo base_url('assets/main/easing/easing.js')?>"></script>
+	<script src="<?php echo base_url('js/main/custom.js')?>"></script>
